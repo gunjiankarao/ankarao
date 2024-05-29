@@ -1,0 +1,129 @@
+.layouts{
+    height:auto;
+    width: 900px;
+    margin: 30px;
+}
+.layoutss img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+
+.layouts{
+    flex-grow: 1;
+
+}
+.layoutsfitst{
+    display: flex;
+    padding-right: 50px;
+
+
+}
+.layouts1{
+    border: 1px solid black;
+    border-radius: 10px;
+
+}
+.subscribe:hover{
+background-color: black;
+border-radius: 10px;
+
+}
+.layouts1{
+    margin: 20px;
+    
+}
+.layout2{
+    display: flex;
+    text-align: center;
+}
+.layouts1A{
+margin-right: 10px;
+border: 1px solid black;
+    width: 900px;
+    position:relative;
+    background-color: skyblue;
+    border-radius: 10px;
+
+}
+.layouts1A img{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: -50px;
+    align-items: center;
+    left: 340px;
+
+
+   
+}
+.layouts1B img{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: -50px;
+    align-items: center;
+    left: 320px;
+
+
+}
+.layouts1B{
+    margin-right: 10px;
+border: 1px solid black;
+    width: 900px;
+    position: relative;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+.project{
+    border: 1px solid black;
+    height: 100px
+}
+
+.button{
+    background-color: pink;
+    padding: 10px;
+    font-size: 15px;
+}
+.text textarea{
+    height: 100px;
+    width: 500px;
+}
+.list{
+    /* height: 70px; */
+    display: flex;  
+     /* position: relative; */
+    /* padding-top: -70px; */
+    /* margin-top :20px; ; */
+    /* bottom: 30px; */
+    /* margin: 20px; */
+    
+    font-size: x-large;
+    list-style: none;
+   /* justify-content:space-around;  */
+   column-gap: 50px;
+   margin-left: 400px;
+
+}
+/* .logo{
+
+    font-style: oblique;
+    position: relative;
+     padding-top: 20px;
+
+} */
+.logo{
+    /* position: relative */
+    /* top: 20px; */
+}
+header{
+     display: grid;
+     grid-template-columns: 40% 60%;
+    background-color: aqua;
+  
+    
+    
+}
